@@ -1,0 +1,14 @@
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\bin\Debug\net6.0\Zadanie8.exe
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\bin\Debug\net6.0\Zadanie8.deps.json
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\bin\Debug\net6.0\Zadanie8.runtimeconfig.json
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\bin\Debug\net6.0\Zadanie8.dll
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\bin\Debug\net6.0\Zadanie8.pdb
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.GeneratedMSBuildEditorConfig.editorconfig
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.AssemblyInfoInputs.cache
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.AssemblyInfo.cs
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.csproj.CoreCompileInputs.cache
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.dll
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\refint\Zadanie8.dll
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.pdb
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\Zadanie8.genruntimeconfig.cache
+D:\st\3курс\практика по программированию\2 модуль Алантьев\Alantev_2mod\Zadanie8\obj\Debug\net6.0\ref\Zadanie8.dll
