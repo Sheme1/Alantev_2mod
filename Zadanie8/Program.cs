@@ -8,7 +8,6 @@ class Programm
         double rad = Convert.ToDouble(Console.ReadLine());
         Circle circle = new Circle(rad);
         Console.WriteLine($"Круг: Площадь = {circle.Area()}, Периметр = {circle.Perimeter()}");
-        Console.WriteLine("----------------------------------------------");
         Console.WriteLine("Введите ширину прямоугольника");
         double w = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Введите высоту прямоугольника");
